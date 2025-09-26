@@ -1,0 +1,11 @@
+{
+    "servers": {
+        "kube-mcp": {
+            "type": "stdio",
+            "command": "npm",
+            "args": [
+                "start"
+            ]
+        }
+    }
+}

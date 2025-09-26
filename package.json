@@ -1,0 +1,20 @@
+{
+  "name": "kube-mcp",
+  "version": "1.0.0",
+  "description": "Model Context Protocol server for Kubernetes developer operations",
+  "main": "server.js",
+  "type": "module",
+  "keywords": ["kubernetes", "mcp", "kubectl", "devops", "ai"],
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

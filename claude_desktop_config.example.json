@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "kubernetes": {
+      "command": "node",
+      "args": ["D:\\Projects - Personal\\kube-mcp\\server.js"],
+      "env": {}
+    }
+  }
+}
