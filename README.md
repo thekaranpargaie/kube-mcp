@@ -2,9 +2,13 @@
 
 A powerful MCP (Model Context Protocol) server for Kubernetes operations that allows you to manage your Kubernetes clusters using natural language through AI assistants.
 
+<a href="https://glama.ai/mcp/servers/@thekaranpargaie/kube-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@thekaranpargaie/kube-mcp/badge" alt="Kubernetes Server MCP server" />
+</a>
+
 ## 🌟 Features
 
-- **� Resource Listing**
+- **📋 Resource Listing**
   - List pods, services, deployments, and namespaces
   - Get detailed resource information
   
@@ -23,7 +27,7 @@ A powerful MCP (Model Context Protocol) server for Kubernetes operations that al
   - Easy to extend with additional tools
   - Comprehensive error handling
 
-## � Available Tools
+## 🛠 Available Tools
 
 | Tool | Description | Parameters |
 |------|-------------|------------|
@@ -151,6 +155,6 @@ Contributions are welcome! Please feel free to submit issues and enhancement req
 Restart your MCP-enabled client (Cursor AI, Claude Desktop, VS Code MCP extension, etc.)  
 
 Now you can issue natural commands like:
-- “Show me all pods in namespace payments”
-- “Port forward postgres service to local 5432”
-- “Get logs from api-pod”
+- "Show me all pods in namespace payments"
+- "Port forward postgres service to local 5432"
+- "Get logs from api-pod"
